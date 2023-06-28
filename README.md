@@ -1,4 +1,4 @@
-# **PDF_TO_TEXT**
+# **Pdf_To_Text**
 This program converts the pdf consisting of multiple languages into equivalent text using **Tesseract OCR**.
 
 ## **Installation**
