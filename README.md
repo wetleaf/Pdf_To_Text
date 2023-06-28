@@ -17,8 +17,6 @@ This program converts the pdf consisting of multiple languages into equivalent t
     wget https://github.com/tesseract-ocr/tessdata/raw/main/ori.traineddata -O [directory you want]/tessdata
 
     wget https://github.com/tesseract-ocr/tessdata/raw/main/eng.traineddata -O [directory you want]/tessdata
-
-
     ```
 4. Export the TESSDATA_PREFIX with the file tessdata
     ```
